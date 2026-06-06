@@ -3,13 +3,6 @@
 Apple Stock Market Analysis using Power BI – Developed an interactive Power BI dashboard to analyze Apple's historical stock performance. Created KPI cards, trend and volume visualizations, dividend analysis, and dynamic time-based filters. Used Power Query and DAX to transform data and generate actionable financial insights.
 
 
-
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-![Finance](https://img.shields.io/badge/Domain-Financial%20Analytics-success)
-
 ---
 
 # 🚀 Project Overview
@@ -354,12 +347,20 @@ This project transforms historical stock market data into actionable insights th
 
 ### Deepak Kumar
 
-Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
+Aspiring Data Analyst || Power BI || SQL || Python || Data Visualization
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: Your LinkedIn Profile  
-💻 GitHub: Your GitHub Profile
+📧 Email: deepak5ikumar173@gmail.com
+🔗 LinkedIn: linkedin.com/in/deepak-kumar-541456265/ 
+💻 GitHub: [Your GitHub Profile](https://github.com/Deepakkuamr173)
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+## ⭐ Support
+
+If you found this project insightful or useful, please consider giving this repository a star. Your support is greatly appreciated and motivates me to build more data analytics, business intelligence, and financial analytics projects.
+
+⭐ **Don't forget to Star this repository if you liked the project!**
+
+---
+
+### Thank You for Visiting! 🚀
