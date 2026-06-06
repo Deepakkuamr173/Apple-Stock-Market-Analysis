@@ -350,7 +350,7 @@ This project transforms historical stock market data into actionable insights th
 Aspiring Data Analyst || Power BI || SQL || Python || Data Visualization
 
 📧 Email: deepak5ikumar173@gmail.com
-🔗 LinkedIn: linkedin.com/in/deepak-kumar-541456265/ 
+🔗 LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-541456265/)
 💻 GitHub: [Your GitHub Profile](https://github.com/Deepakkuamr173)
 
 ---
